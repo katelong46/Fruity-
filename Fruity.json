@@ -1,0 +1,52 @@
+{
+  "fruits": [
+    {
+      "name": "apple",
+      "type": "Fuji apple",
+      "color": "Red",
+      "Charasteristics": [
+        "crunchy",
+        "sweet",
+        "yummy"
+      ],
+      "seeds": 5,
+      "photo": "https://fruitguys.com/sites/default/files/wp-content/uploads/2012/02/apple_fuji_lg1.jpg"
+    },
+    {
+      "name": "mango",
+      "type": "Chaunsa",
+      "color": "yellow",
+      "Charasteristics": [
+        "soft",
+        "sweet",
+        "sticky"
+      ],
+      "seeds": 1,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chaunsa.JPG/1200px-Chaunsa.JPG"
+    },
+    {
+      "name": "banana",
+      "type": "Saba",
+      "color": "yellow",
+      "Charasteristics": [
+        "soft",
+        "sweet",
+        "peel"
+      ],
+      "seeds": 99,
+      "photo": "https://philnews.ph/wp-content/uploads/2017/02/saba.jpg"
+    },
+    {
+      "name": "avocado",
+      "type": "Hass",
+      "color": "green",
+      "Charasteristics": [
+        "soft",
+        "mushy",
+        "fatty"
+      ],
+      "seeds": 1,
+      "photo": "http://cdn0.thetruthaboutknives.com/wp-content/uploads/2017/05/hmaimg2-1.png"
+    }
+  ]
+}
